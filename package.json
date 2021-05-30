@@ -1,0 +1,18 @@
+{
+  "name": "ntask-api",
+  "version": "1.0.0",
+  "description": "API de gerenciamento de tarefas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Graciliana/"
+  },
+  "keywords": [
+    "lokaPORbike88"
+  ],
+  "author": "Graciliana kascher",
+  "license": "ISC"
+}
